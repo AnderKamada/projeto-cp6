@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "75mIRhvrYb9OIIfBSGXyqPBsXxVXcNtRAmuX1JrG+v0=",
+  "Source": "ImovelAPI",
+  "BasePath": "_content/ImovelAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
